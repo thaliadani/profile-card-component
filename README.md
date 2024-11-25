@@ -34,8 +34,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com](https://www.frontendmentor.io/solutions/profile-card-component-UsS7XUV1mz)
-- Live Site URL: (https://your-live-site-url.com](https://profile-card-component-ecru-one.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-UsS7XUV1mz)
+- Live Site URL: [Vercel](https://profile-card-component-ecru-one.vercel.app/)
 
 ## My process
 
