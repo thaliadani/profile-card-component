@@ -34,8 +34,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://your-solution-url.com](https://www.frontendmentor.io/solutions/profile-card-component-UsS7XUV1mz)
+- Live Site URL: (https://your-live-site-url.com](https://profile-card-component-ecru-one.vercel.app/)
 
 ## My process
 
@@ -43,7 +43,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - CSS custom properties
+- SASS
 - Flexbox
+- Mobile-first workflow
 
 ## Author
 
